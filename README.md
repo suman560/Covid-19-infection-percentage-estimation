@@ -4,5 +4,5 @@ creating_data_folds.ipynb:  This notebook contains the code for dividing data in
 
 extracting_file_name_from_folder.ipynb: This notebook contains the code for extracting  names of files inside folder
 
-training-covid-percentage.ipynb:  This notebook contains contains the code for training the model, evaluating the model on test data and creating a submission file.
+training-covid-percentage.ipynb:  This notebook contains the code for training the model, evaluating the model on test data and creating a submission file.
 
